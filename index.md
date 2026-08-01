@@ -8,6 +8,14 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 ---
 
+## Graduate Student Opportunities
+
+I will join the research group led by Professor Jiayang Li (http://english.genetics.cas.cn/lijiayang) at Yazhouwan National Laboratory as a Young Scientist in late 2026.
+
+I plan to recruit **one or two highly motivated master's and PhD students** interested in plant genomics, bioinformatics, crop improvement, and related research areas. Student research projects will be jointly supervised by Professor Jiayang Li and me.
+
+Prospective students are welcome to contact me at [caoyinhong@genetics.ac.cn](mailto:caoyinhong@genetics.ac.cn).
+
 ## Contact
 
 - **Affiliation:** Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
