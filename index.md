@@ -12,7 +12,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 - **Affiliation:** Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
 - **Location:** Beijing, China
-- **Email:** *To be added*
+- **Email:** [caoyinhong@genetics.ac.cn](mailto:caoyinhong@genetics.ac.cn)
 - **GitHub:** [caoyhCAS](https://github.com/caoyhCAS)
 - **Google Scholar:** [Yinhong Cao](https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ)
 
@@ -80,6 +80,4 @@ I use comparative genomics to investigate the evolution of parasitic lifestyles,
 
 [View the complete publication list on Google Scholar](https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ)
 
----
 
-Hosted on [GitHub Pages](https://pages.github.com/).
