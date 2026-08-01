@@ -10,7 +10,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 ## Graduate Student Opportunities
 
-I will join the research group led by Professor Jiayang Li (http://english.genetics.cas.cn/lijiayang) at Yazhouwan National Laboratory as a Young Scientist in late 2026.
+I will join the research group led by Professor [Jiayang Li] (http://english.genetics.cas.cn/lijiayang) at Yazhouwan National Laboratory as a Young Scientist in late 2026.
 
 I plan to recruit **one or two highly motivated master's and PhD students** interested in plant genomics, bioinformatics, crop improvement, and related research areas. Student research projects will be jointly supervised by Professor Jiayang Li and me.
 
@@ -23,6 +23,12 @@ Prospective students are welcome to contact me at [caoyinhong@genetics.ac.cn](ma
 - **Email:** [caoyinhong@genetics.ac.cn](mailto:caoyinhong@genetics.ac.cn)
 - **GitHub:** [caoyhCAS](https://github.com/caoyhCAS)
 - **Google Scholar:** [Yinhong Cao](https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ)
+
+---
+
+## Events
+
+* July 18–22, 2026 # [Plant Biology 2026](https://plantbiology.aspb.org/), hosted in Ottawa, Canada | Yinhong Cao presented the research “[Genome assembly and annotation of *Orobanche cumana* and future research directions](https://plantbiology2026.eventscribe.net/fsPopup.asp?PresentationID=1855852&efp=WUhOSElCT0wyNjE0Nw&mode=presInfo).”
 
 ---
 
