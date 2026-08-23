@@ -1,4 +1,37 @@
-title: Yinhong Cao
-description: Homepage of Yinhong Cao
-show_downloads: false
-theme: jekyll-theme-minimal
+locale: "en-US"
+title: "Yinhong Cao"
+title_separator: "-"
+name: "Yinhong Cao"
+description: "Homepage of Yinhong Cao"
+url: "https://caoyhcas.github.io"
+baseurl: ""
+repository: "caoyhCAS/caoyhCAS.github.io"
+
+remote_theme: "academicpages/academicpages.github.io"
+
+author:
+  avatar: "https://avatars.githubusercontent.com/u/115216957?v=4"
+  name: "Yinhong Cao"
+  bio: "Plant genomics researcher"
+  location: "Beijing, China"
+  employer: "Institute of Genetics and Developmental Biology, Chinese Academy of Sciences"
+  email: "caoyinhong@genetics.ac.cn"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ"
+  github: "caoyhCAS"
+
+breadcrumbs: false
+read_more: "disabled"
+
+include:
+  - _data
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
