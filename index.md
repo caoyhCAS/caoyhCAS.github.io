@@ -2,7 +2,6 @@
 layout: single
 permalink: /
 author_profile: true
-classes: wide
 ---
 
 # Welcome to Yinhong Cao's Homepage
