@@ -9,73 +9,6 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 ---
 
-<div role="region"
-     aria-label="Graduate Student Opportunities"
-     style="box-sizing:border-box;
-            background:linear-gradient(135deg,#eef7ff 0%,#f7f3ff 100%);
-            border:1px solid #a9cbed;
-            border-left:7px solid #1565c0;
-            border-radius:12px;
-            padding:22px 24px;
-            margin:28px 0;
-            box-shadow:0 8px 22px rgba(21,101,192,0.14);">
-
-  <div style="display:inline-block;
-              background:#d97706;
-              color:#ffffff;
-              font-size:0.78em;
-              font-weight:700;
-              letter-spacing:0.06em;
-              padding:5px 11px;
-              border-radius:20px;
-              margin-bottom:10px;">
-    🎓 OPEN POSITIONS
-  </div>
-
-  <h2 style="color:#15395b;
-             margin:2px 0 12px;
-             padding:0;
-             border-bottom:none;">
-    Graduate Student Opportunities
-  </h2>
-
-  <p style="font-size:1.04em; line-height:1.65; margin-bottom:12px;">
-    I will join the research group led by Professor Jiayang Li
-    (http://english.genetics.cas.cn/lijiayang) at
-    <strong>Yazhouwan National Laboratory</strong>
-    as a Young Scientist in late 2026.
-  </p>
-
-  <ul style="line-height:1.65; margin:12px 0 20px;">
-    <li>
-      <strong>Positions:</strong>
-      2 master's or PhD students
-    </li>
-    <li>
-      <strong>Research areas:</strong>
-      plant genomics, bioinformatics, crop improvement, and related fields
-    </li>
-    <li>
-      <strong>Supervision:</strong>
-      jointly supervised by Professor Jiayang Li and Yinhong Cao
-    </li>
-  </ul>
-
-  <a href="mailto:caoyinhong@genetics.ac.cn"
-     style="display:inline-block;
-            max-width:100%;
-            box-sizing:border-box;
-            background:#1565c0;
-            color:#ffffff;
-            font-weight:700;
-            text-decoration:none;
-            padding:10px 17px;
-            border-radius:7px;">
-    ✉ Contact me about opportunities
-  </a>
-
-</div>
-
 ## Contact
 
 - **Affiliation:** Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
@@ -86,7 +19,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 ---
 
-## Events
+## News
 
 * July 18–22, 2026 # [Plant Biology 2026](https://plantbiology.aspb.org/), hosted in Ottawa, Canada | Yinhong Cao presented the research “[Genome assembly and annotation of *Orobanche cumana* and future research directions](https://plantbiology2026.eventscribe.net/fsPopup.asp?PresentationID=1855852&efp=WUhOSElCT0wyNjE0Nw&mode=presInfo).”
 
