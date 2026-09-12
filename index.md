@@ -5,7 +5,15 @@ title: "Welcome to Yinhong Cao's Homepage"
 author_profile: true
 ---
 
-I am a Genomics researcher working at the intersection of genome assembly, evolutionary biology, and functional genomics. My research focuses on understanding how genome structure, gene regulation, and evolutionary history shape complex plant traits.
+I am often asked why I chose to move from animal genomics to plant genomics, what I gained from this experience, and which research direction I now hope to pursue in depth.
+
+My answer: Yes, it was a substantial change in biological system, and there was a lot of new biology to learn. What attracted me to the postdoctoral opportunity was the chance to build on my background in evolutionary genomics and expand my training in genome structure and gene regulation.
+
+During my PhD, I studied genetic diversity and adaptive introgression in sheep. A central question was how evolutionary history contributes to differences in traits and adaptation. During my postdoc, I have explored related questions in plants, with more emphasis on genome assembly, haplotype differences, and gene regulation. For example, in my dandelion research, I am combining haplotype-resolved genomes with gene-expression analysis to understand variation in rubber-related traits.
+
+Looking back, these two stages have given me complementary perspectives: understanding variation across populations, and examining its consequences in greater detail within genomes. The transition also taught me to recognize where my existing methods were useful and where I needed a deeper understanding of the new biological system.
+
+I am particularly interested in how complex genomic variation evolves and contributes to biological differences across species, including those from different kingdoms. I see this as a direction in which I would like to build long-term expertise.
 
 ---
 
