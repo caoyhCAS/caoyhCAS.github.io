@@ -32,7 +32,7 @@ I am particularly interested in how complex genomic variation evolves and contri
 
 * July 18–22, 2026 # [Plant Biology 2026](https://plantbiology.aspb.org/), hosted in Ottawa, Canada | Yinhong Cao presented the research “[Genome assembly and annotation of *Orobanche cumana* and future research directions](https://plantbiology2026.eventscribe.net/fsPopup.asp?PresentationID=1855852&efp=WUhOSElCT0wyNjE0Nw&mode=presInfo).”
 
-* October 13–17, 2021 # 21st National Symposium on Animal Genetics and Breeding, held in Beijing, China | Yinhong Cao gave an oral presentation entitled “Whole-genome resequencing of worldwide wild and domestic sheep elucidates genetic diversity, introgression, and agronomically important loci.”
+* October 13–17, 2021 # [21st National Symposium on Animal Genetics and Breeding](https://news.cau.edu.cn/art/2021/10/14/art_8769_789684.html), held in Beijing, China | Yinhong Cao gave an oral presentation entitled “Whole-genome resequencing of worldwide wild and domestic sheep elucidates genetic diversity, introgression, and agronomically important loci.”
 
 ---
 
