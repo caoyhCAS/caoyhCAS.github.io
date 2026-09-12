@@ -15,7 +15,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
   Supervisor: Prof. Meng-Hua Li.
 
 - **Postdoctoral Researcher**, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences (January 2022–Present).  
-  Postdoctoral advisor: Prof. Jiayang Li (Member of the Chinese Academy of Sciences).
+  Postdoctoral advisor: [Prof. Jiayang Li](http://english.genetics.cas.cn/lijiayang).
 
 ---
 
