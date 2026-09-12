@@ -15,7 +15,6 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 - **Location:** Beijing, China
 - **Email:** [caoyinhong@genetics.ac.cn](mailto:caoyinhong@genetics.ac.cn)
 - **GitHub:** [caoyhCAS](https://github.com/caoyhCAS)
-- **Bluesky:** [@yinhongcao.bsky.social](https://bsky.app/profile/yinhongcao.bsky.social)
 - **Google Scholar:** [Yinhong Cao](https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ)
 
 ---
