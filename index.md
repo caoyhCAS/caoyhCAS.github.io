@@ -5,6 +5,65 @@ title: "Welcome to Yinhong Cao's Homepage"
 author_profile: true
 ---
 
+<style>
+.home-motto {
+  box-sizing: border-box;
+  max-width: 28rem;
+  margin: 0 0 1.5rem auto;
+  padding-left: 1rem;
+  border-left: 2px solid var(--global-link-color, #52adc8);
+  color: var(--global-text-color, #494e52);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+.home-motto figure,
+.home-motto blockquote,
+.home-motto blockquote p {
+  margin: 0;
+}
+.home-motto blockquote {
+  padding: 0;
+  border: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  font-style: italic;
+  line-height: inherit;
+}
+.home-motto figcaption {
+  margin-top: 0.8em;
+  font-size: 0.9em;
+  font-style: normal;
+  line-height: 1.5;
+  color: inherit;
+}
+.home-motto figcaption span {
+  display: block;
+  opacity: 0.8;
+}
+@media (min-width: 1280px) {
+  #main {
+    position: relative;
+  }
+  .home-motto {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    width: calc(16.949% - 2rem);
+    max-width: none;
+    margin: 0;
+  }
+}
+</style>
+
+<aside class="home-motto" aria-label="Yinhong Cao's life motto">
+  <figure>
+    <blockquote>
+      <p>“No matter how bad things get, I will always stay positive, take initiative, and tackle challenges with courage!”</p>
+    </blockquote>
+    <figcaption>— Yinhong Cao<span>A personal reflection on life</span></figcaption>
+  </figure>
+</aside>
+
 I am often asked why I chose to move from animal genomics to plant genomics, what I gained from this experience, and which research direction I now hope to pursue in depth.
 
 My answer: Yes, it was a substantial change in biological system, and there was a lot of new biology to learn. What attracted me to the postdoctoral opportunity was the chance to build on my background in evolutionary genomics and expand my training in genome structure and gene regulation.
