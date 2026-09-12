@@ -15,7 +15,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
   Supervisor: [Prof. Meng-Hua Li](https://www.nature.com/articles/s41588-024-02037-6).
 
 - **Postdoctoral Researcher**, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences (January 2022–Present).  
-  Postdoctoral advisor: [Jiayang Li](http://english.genetics.cas.cn/lijiayang), Hong Yu, Bing Wang.
+  Postdoctoral advisor: [Jiayang Li](http://english.genetics.cas.cn/lijiayang), [Hong Yu](https://orcid.org/0000-0002-1748-8693), [Bing Wang](https://www.researchgate.net/profile/Bing-Wang-5).
 
 ---
 
