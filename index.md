@@ -5,7 +5,7 @@ title: "Welcome to Yinhong Cao's Homepage"
 author_profile: true
 ---
 
-I am a plant genomics researcher working at the intersection of genome assembly, evolutionary biology, and functional genomics. My research focuses on understanding how genome structure, gene regulation, and evolutionary history shape complex plant traits.
+I am a Genomics researcher working at the intersection of genome assembly, evolutionary biology, and functional genomics. My research focuses on understanding how genome structure, gene regulation, and evolutionary history shape complex plant traits.
 
 ---
 
