@@ -60,14 +60,6 @@ I use comparative genomics to investigate the evolution of parasitic lifestyles,
 
 ## Bioinformatics and Genomic Resources
 
-| Research area | Representative tools |
-|---|---|
-| Genome assembly and quality assessment | hifiasm, Hi-C, BUSCO, LAI, Merqury |
-| Comparative genomics | OrthoFinder, CAFE, MCScanX, PAML |
-| Whole-genome comparison | minimap2, SyRI, plotsr, MUMmer |
-| Population genomics | PLINK, ADMIXTURE, GEMMA, EMMAX |
-| Regulatory genomics | RNA-seq, ATAC-seq, WGCNA, TOBIAS |
-
 ---
 
 ## Publications
