@@ -85,29 +85,29 @@ Publications are listed in reverse chronological order. My name is shown in **bo
 
 ### 2025
 
-1. **Cao, Y.**, Chen, Q., Xu, X., Fernie, A. R., Li, J., & Zhang, Y. (2025). [Insights from natural rubber biosynthesis evolution for pathway engineering](https://doi.org/10.1016/j.tplants.2025.03.013). *Trends in Plant Science*, **30**(8), 897–912.
+1. **Yinhong Cao**, Qingwen Chen, Xia Xu, Alisdair R. Fernie, Jiayang Li, & Youjun Zhang (2025). [Insights from natural rubber biosynthesis evolution for pathway engineering](https://doi.org/10.1016/j.tplants.2025.03.013). *Trends in Plant Science*, **30**(8), 897–912.
 
-2. Da Silva, A., Ahbara, A., Baazaoui, I., Ben Jemaa, S., **Cao, Y.**, et al. (2025). [History and genetic diversity of African sheep: Contrasting phenotypic and genomic diversity](https://doi.org/10.1111/age.13488). *Animal Genetics*, **56**(1), e13488.
+2. Anne Da Silva, Abulgasim Ahbara, Imen Baazaoui, Slim Ben Jemaa, **Yinhong Cao**, Elena Ciani, Edgar Farai Dzomba, Linda Evans, Elisha Gootwine, Olivier Hanotte, Laura Harris, Meng-Hua Li, Salvatore Mastrangelo, Ayao Missohou, Annelin Molotsi, Farai C. Muchadeyi, Joram M. Mwacharo, Gaëlle Tallet, Pascal Vernus, Stephen J. G. Hall, & Johannes A. Lenstra (2025). [History and genetic diversity of African sheep: Contrasting phenotypic and genomic diversity](https://doi.org/10.1111/age.13488). *Animal Genetics*, **56**(1), e13488.
 
 ### 2024
 
-1. Luo, M., Yang, W., Bai, L., Zhang, L., Huang, J.-W., **Cao, Y.**, et al. (2024). [Artificial intelligence for life sciences: A comprehensive guide and future trends](https://doi.org/10.59717/j.xinn-life.2024.100105). *The Innovation Life*, **2**(4), 100105.
+1. Ming Luo, Wenyu Yang, Long Bai, Lin Zhang, Jia-Wei Huang, **Yinhong Cao**, Yuhua Xie, Liping Tong, Haibo Zhang, Lei Yu, Li-Wei Zhou, Yi Shi, Panke Yu, Zuoyun Wang, Zuoqiang Yuan, Peijun Zhang, Youjun Zhang, Feng Ju, Hongbin Zhang, Fang Wang, Yuanzheng Cui, Jin Zhang, Gongxue Jia, Dan Wan, Changshun Ruan, Yue Zeng, Pengpeng Wu, Zhaobing Gao, Wenrui Zhao, Yongjun Xu, Guangchuang Yu, Caihuan Tian, Ling N. Jin, Ji Dai, Bingqing Xia, Baojun Sun, Fei Chen, Yi-Zhou Gao, Haijun Wang, Bing Wang, Dake Zhang, Xin Cao, Huaiyu Wang, & Tao Huang (2024). [Artificial intelligence for life sciences: A comprehensive guide and future trends](https://doi.org/10.59717/j.xinn-life.2024.100105). *The Innovation Life*, **2**(4), 100105.
 
 ### 2022
 
-1. Lv, F.-H., **Cao, Y.-H.**, Liu, G.-J., Luo, L.-Y., Lu, R., et al. (2022). [Whole-genome resequencing of worldwide wild and domestic sheep elucidates genetic diversity, introgression, and agronomically important loci](https://doi.org/10.1093/molbev/msab353). *Molecular Biology and Evolution*, **39**(2), msab353.
+1. Feng-Hua Lv, **Yin-Hong Cao**, Guang-Jian Liu, Ling-Yun Luo, Ran Lu, Ming-Jun Liu, Wen-Rong Li, Ping Zhou, Xin-Hua Wang, Min Shen, Lei Gao, Jing-Quan Yang, Hua Yang, Yong-Lin Yang, Chang-Bin Liu, Peng-Cheng Wan, Yun-Sheng Zhang, Wen-Hui Pi, Yan-Ling Ren, Zhi-Qiang Shen, Feng Wang, Yu-Tao Wang, Jin-Quan Li, Hosein Salehian-Dehkordi, Eer Hehua, Yong-Gang Liu, Jian-Fei Chen, Jian-Kui Wang, Xue-Mei Deng, Ali Esmailizadeh, Mostafa Dehghani-Qanatqestani, Hadi Charati, Maryam Nosrati, Ondřej Štěpánek, Hossam E. Rushdi, Ingrid Olsaker, Ino Curik, Neena A. Gorkhali, Samuel R. Paiva, Alexandre R. Caetano, Elena Ciani, Marcel Amills, Christina Weimann, Georg Erhardt, Agraw Amane, Joram M. Mwacharo, Jian-Lin Han, Olivier Hanotte, Kathiravan Periasamy, Anna M. Johansson, Jón H. Hallsson, Juha Kantanen, David W. Coltman, Michael W. Bruford, Johannes A. Lenstra, & Meng-Hua Li (2022). [Whole-genome resequencing of worldwide wild and domestic sheep elucidates genetic diversity, introgression, and agronomically important loci](https://doi.org/10.1093/molbev/msab353). *Molecular Biology and Evolution*, **39**(2), msab353.
 
 ### 2021
 
-1. **Cao, Y.-H.**, Xu, S.-S., Shen, M., Chen, Z.-H., Gao, L., et al. (2021). [Historical introgression from wild relatives enhanced climatic adaptation and resistance to pneumonia in sheep](https://doi.org/10.1093/molbev/msaa236). *Molecular Biology and Evolution*, **38**(3), 838–855.
+1. **Yin-Hong Cao**, Song-Song Xu, Min Shen, Ze-Hui Chen, Lei Gao, Feng-Hua Lv, Xing-Long Xie, Xin-Hua Wang, Hua Yang, Chang-Bin Liu, Ping Zhou, Peng-Cheng Wan, Yun-Sheng Zhang, Jing-Quan Yang, Wen-Hui Pi, EEr Hehua, Donagh P. Berry, Mario Barbato, Ali Esmailizadeh, Maryam Nosrati, Hosein Salehian-Dehkordi, Mostafa Dehghani-Qanatqestani, Arsen V. Dotsev, Tatiana E. Deniskova, Natalia A. Zinovieva, Gottfried Brem, Ondřej Štěpánek, Elena Ciani, Christina Weimann, Georg Erhardt, Joram M. Mwacharo, Abulgasim Ahbara, Jian-Lin Han, Olivier Hanotte, Joshua M. Miller, Zijian Sim, David Coltman, Juha Kantanen, Michael W. Bruford, Johannes A. Lenstra, James Kijas, & Meng-Hua Li (2021). [Historical introgression from wild relatives enhanced climatic adaptation and resistance to pneumonia in sheep](https://doi.org/10.1093/molbev/msaa236). *Molecular Biology and Evolution*, **38**(3), 838–855.
 
-2. Salehian-Dehkordi, H., Xu, Y.-X., Xu, S.-S., Li, X., Luo, L.-Y., Liu, Y.-J., Wang, D.-F., **Cao, Y.-H.**, et al. (2021). [Genome-wide detection of copy number variations and their association with distinct phenotypes in the world's sheep](https://doi.org/10.3389/fgene.2021.670582). *Frontiers in Genetics*, **12**, 670582.
+2. Hosein Salehian-Dehkordi, Ya-Xi Xu, Song-Song Xu, Xin Li, Ling-Yun Luo, Ya-Jing Liu, Dong-Feng Wang, **Yin-Hong Cao**, Min Shen, Lei Gao, Ze-Hui Chen, Joseph T. Glessner, Johannes A. Lenstra, Ali Esmailizadeh, Meng-Hua Li, & Feng-Hua Lv (2021). [Genome-wide detection of copy number variations and their association with distinct phenotypes in the world's sheep](https://doi.org/10.3389/fgene.2021.670582). *Frontiers in Genetics*, **12**, 670582.
 
 ### 2019
 
-1. Hu, X.-J., Yang, J., Xie, X.-L., Lv, F.-H., **Cao, Y.-H.**, et al. (2019). [The genome landscape of Tibetan sheep reveals adaptive introgression from argali and the history of early human settlements on the Qinghai–Tibetan Plateau](https://doi.org/10.1093/molbev/msy208). *Molecular Biology and Evolution*, **36**(2), 283–303.
+1. Xiao-Ju Hu, Ji Yang, Xing-Long Xie, Feng-Hua Lv, **Yin-Hong Cao**, Wen-Rong Li, Ming-Jun Liu, Yu-Tao Wang, Jin-Quan Li, Yong-Gang Liu, Yan-Lin Ren, Zhi-Qiang Shen, Feng Wang, EEr Hehua, Jian-Lin Han, & Meng-Hua Li (2019). [The genome landscape of Tibetan sheep reveals adaptive introgression from argali and the history of early human settlements on the Qinghai–Tibetan Plateau](https://doi.org/10.1093/molbev/msy208). *Molecular Biology and Evolution*, **36**(2), 283–303.
 
-2. Yang, J., Li, X., **Cao, Y.-H.**, Pokharel, K., Hu, X.-J., et al. (2019). [Comparative mRNA and miRNA expression in European mouflon (*Ovis musimon*) and sheep (*Ovis aries*) provides novel insights into the genetic mechanisms for female reproductive success](https://doi.org/10.1038/s41437-018-0090-1). *Heredity*, **122**(2), 172–186.
+2. Ji Yang, Xin Li, **Yin-Hong Cao**, Kisun Pokharel, Xiao-Ju Hu, Ze-Hui Chen, Song-Song Xu, Jaana Peippo, Mervi Honkatukia, Juha Kantanen, & Meng-Hua Li (2019). [Comparative mRNA and miRNA expression in European mouflon (*Ovis musimon*) and sheep (*Ovis aries*) provides novel insights into the genetic mechanisms for female reproductive success](https://doi.org/10.1038/s41437-018-0090-1). *Heredity*, **122**(2), 172–186.
 
 [View my Google Scholar profile](https://scholar.google.com/citations?user=3tnAAOgAAAAJ&hl=en)
 
