@@ -20,16 +20,6 @@ I am a Genomics researcher working at the intersection of genome assembly, evolu
 
 ---
 
-## Contact
-
-- **Affiliation:** Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
-- **Location:** Beijing, China
-- **Email:** [caoyinhong@genetics.ac.cn](mailto:caoyinhong@genetics.ac.cn)
-- **GitHub:** [caoyhCAS](https://github.com/caoyhCAS)
-- **Google Scholar:** [Yinhong Cao](https://scholar.google.com/citations?hl=en&user=3tnAAOgAAAAJ)
-
----
-
 ## News
 
 * July 18–22, 2026 # [Plant Biology 2026](https://plantbiology.aspb.org/), hosted in Ottawa, Canada | Yinhong Cao presented the research “[Genome assembly and annotation of *Orobanche cumana* and future research directions](https://plantbiology2026.eventscribe.net/fsPopup.asp?PresentationID=1855852&efp=WUhOSElCT0wyNjE0Nw&mode=presInfo).”
