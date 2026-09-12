@@ -11,7 +11,7 @@ I am a plant genomics researcher working at the intersection of genome assembly,
 
 ## Education and Training
 
-- **Ph.D. in Genomics**, University of Chinese Academy of Sciences (September 2016–January 2022).  
+- **Ph.D. in Genomics**, University of Chinese Academy of Sciences / Institute of Zoology, Chinese Academy of Sciences (September 2016–January 2022).  
   Supervisor: [Prof. Meng-Hua Li](https://www.nature.com/articles/s41588-024-02037-6).
 
 - **Postdoctoral Researcher**, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences (January 2022–Present).  
