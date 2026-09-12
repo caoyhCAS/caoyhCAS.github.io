@@ -38,7 +38,7 @@ I am particularly interested in how complex genomic variation evolves and contri
 
 ## Service
 
-- Organizing Committee Member, 1st World Conference on Sheep.
+- Organizing Committee Member, [1st World Conference on Sheep](https://www.aconf.org/conf_104277.the_1st_World_Conference_on_Sheep.html).
 - Organizing Committee Member, Virtual 3rd World Conference on Sheep.
 
 ---
