@@ -100,3 +100,26 @@ Publications are listed in reverse chronological order. My name is shown in **bo
 [View my Google Scholar profile](https://scholar.google.com/citations?user=3tnAAOgAAAAJ&hl=en)
 
 
+---
+
+## Support
+
+My research has been supported by the following funding programs and computing resources.
+
+### Current
+
+- **National Key Research and Development Program of China** (Grant No. 2023YFA0914801). 2023–2028. Role: Project participant.
+
+### Past
+
+- **Beijing Municipal Natural Science Foundation** (Grant No. 6234046). 2023–2024. Role: Principal Investigator (PI).
+
+- **China National Postdoctoral Program for Innovative Talents** (Grant No. BX20220335). 2022–2024. Role: Principal Investigator (PI).
+
+- **Special Research Assistant Project of the Chinese Academy of Sciences**. 2022–2024. Role: Principal Investigator (PI).
+
+- **ORISE Supercomputer** (Project No. DFZX202303). 2023–2024. Role: Principal Investigator (PI).
+
+- **National Natural Science Foundation of China (NSFC), International (Regional) Cooperation and Exchange Program** (Grant No. 32061133010). *Characterization of indigenous sheep genetic resources in China and Russia and the genetic mechanisms of adaptation to extreme environments.* January 1, 2021–December 31, 2023. Project funding: RMB 1,500,000. Status: Completed. Role: Project participant.
+
+- **National Natural Science Foundation of China (NSFC), General Program** (Grant No. 31972527). *Identification and functional characterization of argali introgression in Tibetan sheep.* January 1, 2020–December 31, 2023. Project funding: RMB 590,000. Status: Completed. Role: Project participant.

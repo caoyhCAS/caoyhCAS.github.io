@@ -7,3 +7,5 @@ main:
     url: "/#current-projects"
   - title: "Publications"
     url: "/#publications"
+  - title: "Support"
+    url: "/#support"
