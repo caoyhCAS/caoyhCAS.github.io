@@ -120,6 +120,6 @@ My research has been supported by the following funding programs and computing r
 
 - **ORISE Supercomputer** (Project No. DFZX202303). 2023–2024. Role: Principal Investigator (PI).
 
-- **National Natural Science Foundation of China (NSFC), International (Regional) Cooperation and Exchange Program** (Grant No. 32061133010). *Characterization of indigenous sheep genetic resources in China and Russia and the genetic mechanisms of adaptation to extreme environments.* January 1, 2021–December 31, 2023. Project funding: RMB 1,500,000. Status: Completed. Role: Project participant.
+- **National Natural Science Foundation of China (NSFC), International (Regional) Cooperation and Exchange Program** (Grant No. 32061133010). January 1, 2021–December 31, 2023. Project funding: RMB 1,500,000. Status: Completed. Role: Project participant.
 
 - **National Natural Science Foundation of China (NSFC), General Program** (Grant No. 31972527). *Identification and functional characterization of argali introgression in Tibetan sheep.* January 1, 2020–December 31, 2023. Project funding: RMB 590,000. Status: Completed. Role: Project participant.
